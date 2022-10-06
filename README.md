@@ -25,8 +25,7 @@ O projeto tem como objetivo criar operações CRUD de um arquivo em json com dad
 
 ## 🛠 Instalação
 
-
-# Instale as dependências:
+ Instale as dependências:
 
  -> <code>npm install</code>
 
@@ -37,16 +36,19 @@ O projeto tem como objetivo criar operações CRUD de um arquivo em json com dad
 
 # 🛠 Instalação no Docker
 Após clonar o repositório e acessar a pasta do projeto, execute:
+
  -> <code>docker-compose up -d</code>
 
 Esse serviço irá inicializar um container chamado <code>talker_manager</code>.
 
 A partir daqui você pode rodar o container via CLI.
+
  -> <code>docker exec -it talker_manager bash</code>.
 
 Ele te dará acesso ao terminal interativo do container criado pelo compose, que está rodando em segundo plano.
 
 Instale as dependências!
+
  -> <code>npm install</code>.
 
 Execute a aplicação com <code>npm start</code> ou <code>npm run dev</code>.
