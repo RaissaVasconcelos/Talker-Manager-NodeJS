@@ -16,7 +16,7 @@ O projeto tem como objetivo criar operações CRUD de um arquivo em json com dad
 * Docker
 
 
-## Aprendizados
+## :memo: Aprendizados
 
 * Criar rotas para cada operação em CRUD solicitada na regra de negócio do projeto;
 * Criar funções de leitura e escrita utilizando a biblioteca nativa FS do Node; 
