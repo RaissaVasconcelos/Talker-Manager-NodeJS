@@ -21,20 +21,10 @@ O projeto tem como objetivo criar operações CRUD de um arquivo em json com dad
 * Criar rotas para cada operação em CRUD solicitada na regra de negócio do projeto;
 * Criar funções de leitura e escrita utilizando a biblioteca nativa FS do Node; 
 * Aplicação de Middlewares para validações das rotas;
-* Utilização da extensão Thunder Client para validar o funcionamento dos endpoints 
-
-## 🛠 Instalação
-
- Instale as dependências:
-
- -> <code>npm install</code>
-
- Inicie a aplicação:
-
- -> <code>npm run dev</code>
+* Utilização da extensão Thunder Client para validar o funcionamento dos endpoints;
 
 
-# 🛠 Instalação no Docker
+## 🛠 Instalação no Docker
 Após clonar o repositório e acessar a pasta do projeto, execute:
 
  -> <code>docker-compose up -d</code>
