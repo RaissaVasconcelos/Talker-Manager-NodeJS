@@ -1,5 +1,8 @@
 # Projeto - Talker Manager
 
+![image](https://user-images.githubusercontent.com/76914915/194444366-2bd35c18-4071-419b-acdf-1c13ccf9c77e.png)
+
+
 ## 
 
 ## 💻 Projeto
